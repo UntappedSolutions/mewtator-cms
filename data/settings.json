@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Mewtator - Getting Started",
+      "topics": [
+        {
+          "title": "First Steps",
+          "slug": "mewtator-getting-started"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
