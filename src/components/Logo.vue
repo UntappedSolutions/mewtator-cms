@@ -1,15 +1,8 @@
 <template>
   <g-link to="/" class="logo" title="Back to home">
-    <transition name="theme">
-      <div v-if="color == 'dark'">
-        <g-image src="~/assets/img/logo-bright.jpg" alt="logo" />
-      </div>
-    </transition>
-    <transition name="theme">
-      <div v-if="color == 'bright'">
-        <g-image src="~/assets/img/logo-dark.jpg" alt="logo" />
-      </div>
-    </transition>
+    <div>
+    <g-image src="~/assets/img/logo-trans.png" alt="logo" />
+    </div>
   </g-link>
 </template>
 
@@ -26,7 +19,7 @@ export default {
 
 <style lang="scss" scoped>
 .logo {
-  height: 40px;
+  width: 200px;
   display: block;
   transition: color .15s ease-in-out;
   color: $textBright;
@@ -34,15 +27,15 @@ export default {
   perspective: 200px;
 
   div {
-    height: 40px;
+    width: 200px;
     position: absolute;
     top: 0;
     left: 0;
   }
 
   img {
-    height: 100%;
-    width: auto;
+    width: 100%;
+    height: auto;
   }
 }
 
