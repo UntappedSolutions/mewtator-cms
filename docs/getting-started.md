@@ -1,10 +1,10 @@
 ---
 title: Getting started
-date: 2018-09-15 07:42:34
+date: 2018-09-15T07:42:34.000+00:00
 slug: getting-started
----
 
-## What is Jamdocs
+---
+## What is Jamdocs2
 
 Jamdocs is a documentation theme for Gridsome, built to spin up quick, beautiful and static documentation sites fast without hassle. Since there is no theming system for Gridsome yet, Jamdocs comes with Gridsome, plug-ins and packages as dependencies.
 
