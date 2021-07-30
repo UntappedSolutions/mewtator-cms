@@ -29,7 +29,7 @@ export default {
   },
   data() {
     return {
-      description: 'Mewtator'
+      description: 'The ultimate tool for transforming one programming language to another.'
     }
   },
   metaInfo() {
