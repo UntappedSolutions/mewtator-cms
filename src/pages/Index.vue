@@ -6,7 +6,7 @@
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/introduction" text="Docs" icon="file-text-icon" />
         <Shortcut link="/" text="Book a Demo" icon="play-icon" />
-        <Shortcut link="/" text="Buy a licence" icon="dolla-sign-icon" />
+        <Shortcut link="/" text="Buy a licence" icon="dollar-sign-icon" />
       </nav>
     </div>
   </Layout>
