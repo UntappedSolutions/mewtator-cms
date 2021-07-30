@@ -6,6 +6,10 @@
         {
           "title": "Introduction",
           "slug": "introduction"
+        },
+        {
+          "title": "Installation",
+          "slug": "installation"
         }
       ]
     },
