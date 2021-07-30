@@ -1,6 +1,6 @@
 ---
-title: Mewtator - Getting Started2
+title: Mewtator User Guide
 date: 2021-07-27
-slug: mewtator-getting-started-2
+slug: user-guide
 
 ---
