@@ -4,11 +4,10 @@
       <h1>{{ $static.metadata.siteName }} - {{ this.description }}</h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/introduction" text="Docs" icon="play-icon" />
-        <Shortcut link="/" text="Book a Demo" icon="sliders-icon" />
-        <Shortcut link="/" text="Buy a licence" icon="eye-icon" />
+        <Shortcut link="/introduction" text="Docs" icon="file-text-icon" />
+        <Shortcut link="/" text="Book a Demo" icon="play-icon" />
+        <Shortcut link="/" text="Buy a licence" icon="dolla-sign-icon" />
       </nav>
-      <GitLink class="git" size="large" />
     </div>
   </Layout>
 </template>
@@ -22,7 +21,6 @@ query {
 </static-query>
 
 <script>
-import GitLink from '~/components/GitLink.vue'
 import Shortcut from '~/components/Shortcut.vue'
 
 export default {
@@ -32,14 +30,14 @@ export default {
   },
   data() {
     return {
-      description: 'The ultimate static generated documentation theme for the JAM-stack'
+      description: 'Mewtator'
     }
   },
   metaInfo() {
     return {
       title: this.description,
       meta: [
-        { key: 'description', name: 'description', content: 'A theme for static site documentation based on Gridsome, ready to deploy to Netlify in one click.' }
+        { key: 'description', name: 'description', content: 'The ultimate tool for transforming one programming language to another.' }
       ]
     }
   }
