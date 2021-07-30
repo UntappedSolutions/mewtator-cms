@@ -4,16 +4,16 @@
       "section": "Mewtator User Guide",
       "topics": [
         {
-          "title": "Basics",
-          "slug": "basics"
-        },
-        {
           "title": "Introduction",
           "slug": "introduction"
         },
         {
           "title": "Installation",
           "slug": "installation"
+        },
+        {
+          "title": "Basics",
+          "slug": "basics"
         }
       ]
     }
