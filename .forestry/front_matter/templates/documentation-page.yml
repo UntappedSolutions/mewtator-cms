@@ -15,6 +15,6 @@ fields:
   name: slug
   label: slug
 pages:
-- docs/Getting Started/mewtator-getting-started.md
-- docs/editing-in-forestry.md
+- docs/basics.md
+- docs/installation.md
 - docs/mewtator-getting-started.md

@@ -1,33 +1,19 @@
 {
   "sidebar": [
     {
-      "section": "Mewtator - Getting Started",
+      "section": "Mewtator User Guide",
       "topics": [
         {
-          "title": "First Steps",
-          "slug": "mewtator-getting-started"
-        }
-      ]
-    },
-    {
-      "section": "Introduction - 2",
-      "topics": [
-        {
-          "title": "Getting started",
-          "slug": "getting-started"
-        }
-      ]
-    },
-    {
-      "section": "Setup",
-      "topics": [
-        {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
+          "title": "Basics",
+          "slug": "basics"
         },
         {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
+          "title": "Introduction",
+          "slug": "introduction"
+        },
+        {
+          "title": "Installation",
+          "slug": "installation"
         }
       ]
     }
