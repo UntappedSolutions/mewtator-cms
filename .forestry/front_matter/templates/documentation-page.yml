@@ -15,5 +15,4 @@ fields:
   name: slug
   label: slug
 pages:
-- docs/Getting Started/mewtator-getting-started.md
 - docs/mewtator-getting-started.md
