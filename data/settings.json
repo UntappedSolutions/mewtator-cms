@@ -4,34 +4,16 @@
       "section": "Mewtator User Guide",
       "topics": [
         {
+          "title": "Basics",
+          "slug": "basics"
+        },
+        {
           "title": "Introduction",
           "slug": "introduction"
         },
         {
           "title": "Installation",
           "slug": "installation"
-        }
-      ]
-    },
-    {
-      "section": "Introduction - 2",
-      "topics": [
-        {
-          "title": "Getting started",
-          "slug": "getting-started"
-        }
-      ]
-    },
-    {
-      "section": "Setup",
-      "topics": [
-        {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
-        },
-        {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
         }
       ]
     }

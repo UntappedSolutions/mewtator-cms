@@ -15,5 +15,6 @@ fields:
   name: slug
   label: slug
 pages:
+- docs/basics.md
 - docs/installation.md
 - docs/mewtator-getting-started.md
