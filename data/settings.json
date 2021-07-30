@@ -1,11 +1,11 @@
 {
   "sidebar": [
     {
-      "section": "Mewtator - Getting Started",
+      "section": "Mewtator User Guide",
       "topics": [
         {
-          "title": "First Steps",
-          "slug": "mewtator-getting-started"
+          "title": "Introduction",
+          "slug": "introduction"
         }
       ]
     },
