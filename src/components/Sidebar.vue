@@ -105,7 +105,7 @@ export default {
 <style lang="scss" scoped>
 .sidebar {
   transition: background .15s ease-in-out, transform .15s ease-in-out, border-color .15s linear;
-  padding: 300px 30px 30px;
+  padding: 260px 30px 30px;
   width: 300px;
   position: fixed;
   top: 0;
